@@ -59,3 +59,4 @@ EX) git commit -m "[SEA] 농작물 수확하기 / 2805 / D3 / 60분"
 • 매일 코딩문제 풀이가 끝나면 fork한 저장소에 Push한 후 Pull request를 보낼 것
 • PR은 해당 주차 일요일에 스터디 이후 merge 예정
 • PR 제목에 해당 주차에 푼 문제 개수를 누적 업데이트 할 것
+OK
