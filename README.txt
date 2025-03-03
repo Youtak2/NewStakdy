@@ -32,7 +32,7 @@ https://www.acmicpc.net/workbook/view/2071
 
 참고 문제?: https://codingdodo.tistory.com/94
 
-#GROUND RULE
+##GROUND RULE
 1.하루에 최소 알고리즘 1문제 이상 풀고 깃허브에 올리기 (pull request까지)-주 6회
 ->위반시 하루에 1000원
 2.모임 시각 지각 +5분 이내 500원 +10분 1000원
@@ -42,7 +42,7 @@ https://www.acmicpc.net/workbook/view/2071
 ->형탁:010-5403-0391 또는 영지:010-2320-7825
 5.각자 풀 수 있는 문제를 풀기
 
-#FORK
+##FORK
 현재 이 저장소를 fork 한다.
 생성된 원격 저장소에 이름 혹은 GitHub ID로 폴더를 생성한다.
 생성된 폴더에 자신의 소스코드를 업로드 한다. (주의 폴더명에 콜론":" 쓰지 않을 것!)
@@ -59,3 +59,4 @@ EX) git commit -m "[SEA] 농작물 수확하기 / 2805 / D3 / 60분"
 • 매일 코딩문제 풀이가 끝나면 fork한 저장소에 Push한 후 Pull request를 보낼 것
 • PR은 해당 주차 일요일에 스터디 이후 merge 예정
 • PR 제목에 해당 주차에 푼 문제 개수를 누적 업데이트 할 것
+OK
